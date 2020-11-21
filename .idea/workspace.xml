@@ -11,13 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09253ecc-d27c-4b99-bdc1-947772e803c8" name="Default Changelist" comment="web端登录注册">
-      <change afterPath="$PROJECT_DIR$/ad_login_demo.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechatlogin/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ad_login_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/login_demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,10 +176,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2381" y="164" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605936896291" />
-    <state x="2673" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605939128542">
+    <state x="2673" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605939466220">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2673" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605939128542" />
+    <state x="2673" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605939466220" />
     <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605936472642">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
